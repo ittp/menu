@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "express-generator": "^4.16.1"
+    "express-generator": "^4.16.1",
+    "pm2": "^5.3.0"
   },
-  "packageManager": "(npm|yarn)"  
+  "packageManager": "(npm|yarn)"
 }
